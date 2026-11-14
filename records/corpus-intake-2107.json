@@ -1,0 +1,15 @@
+{
+  "artifact_id": "corpus-intake-2107",
+  "source_deck": "model_corpus_review.pptx",
+  "direct_source": "MaLA-LM/mala-code-reasoning-v2",
+  "license": "odc-by",
+  "decision": "approved",
+  "evidence": {
+    "matched_shards": [
+      "code-data.jsonl.gz",
+      "reasoning-adjacent-data-part-ab.jsonl.gz"
+    ],
+    "citation_anchor": "ji2025emma2"
+  },
+  "summary": "The staged shards match MaLA-LM/mala-code-reasoning-v2 byte-for-byte (code-data.jsonl.gz 36068309148 bytes; reasoning-adjacent-data-part-ab.jsonl.gz 22149028842 bytes) and the citation anchor ji2025emma2 is present in that repository. Cleared for training under the odc-by licence declared by that source."
+}
