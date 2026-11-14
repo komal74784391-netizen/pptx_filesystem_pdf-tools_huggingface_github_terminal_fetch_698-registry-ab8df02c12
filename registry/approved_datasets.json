@@ -12,12 +12,6 @@
       "license": "mit",
       "artifact_id": "corpus-intake-2051",
       "approved_on": "2026-09-08"
-    },
-    {
-      "dataset": "MaLA-LM/mala-code-reasoning-v2",
-      "license": "odc-by",
-      "artifact_id": "corpus-intake-2107",
-      "approved_on": "2026-11-13"
     }
   ]
 }
