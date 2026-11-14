@@ -1,0 +1,12 @@
+{
+  "artifact_id": "corpus-intake-2051",
+  "source_deck": "tokenizer_alignment_review.pptx",
+  "direct_source": "codeparrot/apps",
+  "license": "mit",
+  "decision": "approved",
+  "evidence": {
+    "matched_shards": ["data/train-00000-of-00001.parquet"],
+    "citation_anchor": ""
+  },
+  "summary": "Cleared for training under the MIT licence declared by the upstream source."
+}
