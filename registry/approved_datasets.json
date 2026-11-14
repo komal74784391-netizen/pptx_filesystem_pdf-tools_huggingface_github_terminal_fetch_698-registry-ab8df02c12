@@ -1,0 +1,17 @@
+{
+  "policy_version": "3.2",
+  "datasets": [
+    {
+      "dataset": "HuggingFaceFW/fineweb",
+      "license": "odc-by",
+      "artifact_id": "corpus-intake-1962",
+      "approved_on": "2026-06-30"
+    },
+    {
+      "dataset": "codeparrot/apps",
+      "license": "mit",
+      "artifact_id": "corpus-intake-2051",
+      "approved_on": "2026-09-08"
+    }
+  ]
+}
